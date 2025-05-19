@@ -88,7 +88,7 @@ A recomendação final aponta que o Senhor João deve investir na **Loja X** *(s
 ## 📌 Como executar
 
 1. Clone o repositório:
-- git clone https://github.com/seuusuario/analise-lojas-sr-joao.git
+- git clone https://github.com/Ana-Jessica/AluraStoreBr/tree/main
 2. Intale as bibliotecas:
 - pip install pandas matplotlib
 3. Execute o notebook .ipynb em um ambiente como Jupyter Notebook ou Google Colab.
